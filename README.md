@@ -49,4 +49,4 @@ Token usage isn't visible as an automatic dashboard for individual Claude accoun
 
 ## License
 
-Not yet set — added before this repo goes public.
+[MIT](LICENSE) — use, modify, and redistribute freely, including commercially; just keep the copyright notice attached.
